@@ -1,7 +1,5 @@
 # Advanced Data Processing Course Assignments
 
-This course was taken during the third year of my B.Sc. in Industrial Engineering and Management at Ruppin Academic Center, as a part of my specializing courses.
-
 This repository contains all homework assignments and class exercises completed as part of the **Advanced Data Processing** course during my degree at Ruppin Academic Center.
 
 📁 **Contents**
