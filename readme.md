@@ -1,13 +1,11 @@
 # Advanced Data Processing Course Assignments
-
 This repository contains all homework assignments and class exercises completed as part of the **Advanced Data Processing** course during my degree at Ruppin Academic Center.
-# Advanced Data Processing Projects
-This repository includes Python and SQL exercises completed as part of the "Advanced Data Processing" course during my studies in Industrial Engineering and Information Systems at Ruppin Academic Center.
 
 ## 🛠️ Technologies Used
 - Python (pandas, matplotlib, numpy)
 - SQL (basic and advanced queries)
 - Jupyter Notebook / Google Colab
+- Databse used: Northwind
 
 ## 📁 Project Structure
 - SQL folder: Contains exercises involving data extraction, joins, aggregations, and subqueries.
@@ -19,7 +17,13 @@ This repository includes Python and SQL exercises completed as part of the "Adva
 
 📁 **Contents**
 - **Class Exercises & Homework**  
-  Practical tasks assigned throughout the course, covering key topics in advanced data processing.
+  Practical tasks assigned throughout the course, covering key topics in advanced data processing with SQL.
+  class 1+2 - basic SQL.
+  class 3 - Rollup, Cube, Grouping sets, Indexing, UDFs.
+  class 4 - window Functions.
+  class 5 - CTE, if, while, GOTO, Recursive Functions.
+  class 6 - Stored Procedures.
+  class 7 - Triggers, Pivot Tables.
 
 - **Exams Folder**  
   Contains past exam questions along with my solutions, organized in a practice format for the final exam.
